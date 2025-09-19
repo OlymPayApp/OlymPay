@@ -148,35 +148,35 @@ OlymPay introduces **oVND** (Olympic Vietnamese Dong), an algorithmic stablecoin
 
 ## 🗺️ Roadmap
 
-### Q1 2025: Foundation
+### Q4 2025: Foundation
 - [ ] Deploy oVND smart contracts
 - [ ] Complete security audits
 - [ ] Launch beta with 1,000 users
 - [ ] HDBank partnership activation
 - [ ] Regulatory compliance framework
 
-### Q2 2025: Market Entry
+### Q1 2026: Market Entry
 - [ ] Public launch with marketing campaign
 - [ ] Vietjet Air integration
 - [ ] Mobile app release
 - [ ] Target 10,000 active users
 - [ ] $500K monthly transaction volume
 
-### Q3 2025: Scale
+### Q2 2026: Scale
 - [ ] SAVICO full integration
 - [ ] Cross-chain bridge optimization
 - [ ] Enterprise API launch
 - [ ] Target 50,000 active users
 - [ ] $2M monthly transaction volume
 
-### Q4 2025: Regional Expansion
+### Q3-Q4 2026: Regional Expansion
 - [ ] Thailand market entry
 - [ ] Multi-currency support
 - [ ] Advanced DeFi features
 - [ ] Target 100,000 active users
 - [ ] $5M monthly transaction volume
 
-### 2026: Global Scale
+### 2027: Global Scale
 - [ ] Philippines and Singapore expansion
 - [ ] Institutional investor integration
 - [ ] Public token listing
